@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8QSmqOELym3ehIPniqxCO5YmYuXs+L6SWck2sFZWNLg=",
+  "Source": "CarHub.Services.AuthApi",
+  "BasePath": "_content/CarHub.Services.AuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
