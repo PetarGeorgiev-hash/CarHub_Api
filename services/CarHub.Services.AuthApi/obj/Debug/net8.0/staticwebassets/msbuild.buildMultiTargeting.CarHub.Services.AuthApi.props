@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CarHub.Services.AuthApi.props" />
+</Project>
