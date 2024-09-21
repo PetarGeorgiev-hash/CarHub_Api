@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarHub.Services.AuthApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+257d98bb244daf2a8f419e1a04321bd945aae52f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b9defe0e0e4e000b83c6c4a0cc4419bfb62c80")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarHub.Services.AuthApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarHub.Services.AuthApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
